@@ -23,8 +23,8 @@ email: philipp.gaspar@gmail.com
 #description: Blog posts about the things that I like; also random notes for when I can't find a piece of paper around me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: philipp-gaspar
-github_username:  philipp-gaspar-3232a5b7
+linkedin_username: philipp-gaspar-3232a5b7/
+github_username:  philipp-gaspar
 
 # Build settings
 theme: minima
