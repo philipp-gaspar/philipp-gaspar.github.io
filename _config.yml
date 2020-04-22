@@ -24,7 +24,7 @@ email: philipp.gaspar@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: philipp-gaspar
-github_username:  philipp-gaspar
+github_username:  philipp-gaspar-3232a5b7
 
 # Build settings
 theme: minima
